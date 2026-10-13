@@ -9,7 +9,7 @@
   <body>
     <main class="generator">
       <header>
-        <h1>Alias Generator</h1>
+        <h1>Alias Name Generator</h1>
         <p>Answer five questions and discover your hip-hop alias.</p>
       </header>
 
@@ -19,7 +19,85 @@
           <option value="">Choose one</option>
 
           <option value="calm">Calm</option>
+
+          <option value="loud">Loud</option>
+
+          <option value="mysterious">Mysterious</option>
+
+          <option value="funny">Funny</option>
         </select>
+      </section>
+
+      <section class="question">
+        <h2>2. What time are you most alive?</h2>
+
+        <select id="time">
+          <option value="">Choose one</option>
+
+          <option value="morning">Early morning</option>
+
+          <option value="afternoon">Afternoon</option>
+
+          <option value="night">Late night</option>
+
+          <option value="late">After midnight</option>
+        </select>
+      </section>
+
+      <section class="question">
+        <h2>3. Pick a place that matches your vibe.</h2>
+
+        <select id="place">
+          <option value="">Choose one</option>
+          <option value="rooftop">Rooftop</option>
+
+          <option value="records">Record store</option>
+
+          <option value="corner">Corner store</option>
+          <option value="subway">Subway platform</option>
+        </select>
+      </section>
+
+      <section class="question">
+        <h2>4. What reputation would you rather have?</h2>
+
+        <select id="reputation">
+          <option value="">Choose one</option>
+
+          <option value="clever">Clever</option>
+
+          <option value="unpredictable">Unpredictable</option>
+
+          <option value="Smooth">Smooth</option>
+
+          <option value="legendary">Legendary</option>
+        </select>
+      </section>
+
+      <section class="question">
+        <h2>5. Pick the word that sounds coolest.</h2>
+
+        <select id="word">
+          <option value="">Choose one</option>
+
+          <option value="velvet">Velvet</option>
+
+          <option value="static">Static</option>
+
+          <option value="golden">Golden</option>
+
+          <option value="shadow">Shadow</option>
+        </select>
+      </section>
+
+      <button id="generate">Generate My Name</button>
+
+      <section class="result" id="result">
+        <p>Your alias is...</p>
+
+        <h2 id="generated-name">?</h2>
+
+        <button id="again">Generate Another</button>
       </section>
     </main>
     <script src="js/main.js"></script>
