@@ -2,7 +2,7 @@
 
 ### A Wu-Tang Clan name generator. Present the user with 5 survey questions and based on those answers, randomly generate their name.
 
-### 🔗 [Open the live app on Render](https://node-palindrome-bootcamp-nc91.onrender.com/)
+### 🔗 [Open the live app on Render](https://wu-tang-generator-bootcamp-53bc.onrender.com)
 
 ### ✨ Key Features
 
