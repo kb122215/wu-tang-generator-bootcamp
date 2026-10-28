@@ -1,0 +1,22 @@
+{
+  "name": "wu-tang-generator-bootcamp",
+  "version": "1.0.0",
+  "description": "Feature A: Personality Based Name Generation: Uses answers from five survey questions to influence the randomly generated hip-hop alias, making each result feel more personalized and unique. Feature B: Server-Side Randomization: Sends the user’s choices to a Node.js server, where different word banks are combined to generate a new Wu-Tang-inspired name. Feature C: Interactive & Responsive Experience: Users can instantly generate another name while the interface remains simple, fast, and easy to use across screen sizes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb122215/wu-tang-generator-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kb122215/wu-tang-generator-bootcamp/issues"
+  },
+  "homepage": "https://github.com/kb122215/wu-tang-generator-bootcamp#readme"
+}

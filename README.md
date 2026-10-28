@@ -1,9 +1,8 @@
 # Project: Wu-Tang Name Generator
 
-### 📄 Description
+### A Wu-Tang Clan name generator. Present the user with 5 survey questions and based on those answers, randomly generate their name.
 
-### A Wu-Tang Clan name generator. Present the user with 5 survey questions and based on those answers, randomly generate their name. 
-
+### 🔗 [Open the live app on Render](https://node-palindrome-bootcamp-nc91.onrender.com/)
 
 ### ✨ Key Features
 
@@ -18,5 +17,10 @@ Feature C: Interactive & Responsive Experience: Users can instantly generate ano
 - JS
 - [Node JS]
 
-
 <img width="1446" height="956" alt="image" src="https://github.com/user-attachments/assets/d57604bb-d5f8-4f66-ba8d-39103de675c1" />
+
+## 👩🏽‍💻 Created By
+
+**Karimah**
+
+- GitHub: [@kb122215](https://github.com/kb122215)
